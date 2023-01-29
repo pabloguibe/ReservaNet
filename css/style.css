@@ -1,0 +1,49 @@
+/*Centrar imagenes dinamicas*/
+#imagen_dinamica{
+    box-sizing: border-box;
+      margin: 0px;
+      padding: 0px;
+      margin-left: 35%;
+      
+}
+
+/*Centrar imagen_vertical derecha*/
+
+#imagen_vertical_derecha{
+    margin-left: 35%;
+
+}
+
+/*Centrar nav*/
+
+#nav{
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 56%;
+}
+
+/*header*/
+
+#header{
+    text-align: center;
+    margin-left: 34%;
+}
+
+/*Contenedor*/
+.contenedor{
+    margin-right: 10% ;
+}
+
+.confirmar{
+    text-align: center;
+    margin-left: 50%;
+}
+
+.confirmada{
+    text-align: center;
+}
+
+.inicio{
+    text-align: center;
+    margin-left: 30%;
+}
